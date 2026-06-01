@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<university>
+        
+    <lesson>
+                
+        <name>Математический анализ</name>
+                
+        <teacher>Иванов Иван Иванович</teacher>
+                
+        <semester>1</semester>
+                
+        <units>5</units>
+            
+    </lesson>
+        
+    <lesson>
+                
+        <name>Линейная алгебра</name>
+                
+        <teacher>Петрова Мария Сергеевна</teacher>
+                
+        <semester>1</semester>
+                
+        <units>4</units>
+            
+    </lesson>
+        
+    <lesson>
+                
+        <name>Программирование на Java</name>
+                
+        <teacher>Сидоров Алексей Николаевич</teacher>
+                
+        <semester>2</semester>
+                
+        <units>6</units>
+            
+    </lesson>
+        
+    
+    <lesson>
+                
+        <name>Операционные системы</name>
+                
+        <teacher>Новиков Сергей Павлович</teacher>
+                
+        <semester>3</semester>
+                
+        <units>4</units>
+            
+    </lesson>
+    
+</university>
